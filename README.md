@@ -48,10 +48,3 @@ After scraping, you can **load**, **search**, and **sort** the data — includin
 | Output | CSV |
 
 ---
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/<your-username>/book-scraper.git
-cd book-scraper
